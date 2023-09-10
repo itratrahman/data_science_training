@@ -1,1 +1,1 @@
-# data_science_training
+# Data Analytics Training Program
