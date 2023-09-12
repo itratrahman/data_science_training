@@ -2,3 +2,4 @@
 
 ## Topics
 - Python Crash Course
+- Numpy Crash Course
