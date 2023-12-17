@@ -70,7 +70,7 @@ class pca(object):
         # set the class of features
         self.features = features
         # extract the feature matrix
-        X = data[features].as_matrix()
+        X = data[features].values
         # compute mean normalization
         X_scaled = self.mean_normalization(X)
         # compute compute_covariance
